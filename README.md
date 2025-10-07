@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 Please download the FTCP-formatted dataset from a Hugging Face repository and place it under `Data_splitting/data/` **before** running any scripts.
 
-**Sample Hugging Face link (replace with your actual dataset URL):**
+**Hugging Face link (replace with your actual dataset URL):**
 🔗 `https://huggingface.co/datasets/your-org/syntheformer-ftcp`
 
 ### Option A — Using `huggingface_hub` (Python)
