@@ -13,11 +13,6 @@
 
 ---
 
-## 📜 License
-This repository is released under the **MIT License**.
-
----
-
 ## 📚 Project Overview
 SyntheFormer unifies **composition**, **real-space**, and **reciprocal-space** signals via FTCP and specialized learning heads, then aggregates them for PU-aware prediction and uncertainty-aware decision rules.
 
@@ -66,7 +61,7 @@ pip install -r requirements.txt
 
 Please download the FTCP-formatted dataset from a Hugging Face repository and place it under `Data_splitting/data/` **before** running any scripts.
 
-**Hugging Face link (replace with your actual dataset URL):**
+**Sample Hugging Face link (replace with your actual dataset URL):**
 🔗 `https://huggingface.co/datasets/your-org/syntheformer-ftcp`
 
 ### Option A — Using `huggingface_hub` (Python)
@@ -109,5 +104,5 @@ cd ../../
 
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
-
+```
 
