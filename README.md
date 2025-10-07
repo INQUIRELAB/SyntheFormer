@@ -1,4 +1,4 @@
-```md
+
 # 🧪 Synthesizability Prediction of Crystalline Materials with a Hierarchical Transformer and Uncertainty Quantification
 
 ## 👤 Authors
@@ -110,4 +110,4 @@ cd ../../
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ```
-```
+
