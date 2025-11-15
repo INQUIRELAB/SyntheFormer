@@ -57,3 +57,10 @@ Prediction/           [WITHHELD PENDING PATENT REVIEW — AVAILABLE BY REQUEST]
 ├─ Advanced_Models_Training.py
 ├─ Advanced_Multi_Threshold_Optimization.py
 └─ Fix_Model_Architecture.py
+
+
+---
+
+## 🤝 License
+
+This project is licensed under the **MIT License**. See `LICENSE` for details.
