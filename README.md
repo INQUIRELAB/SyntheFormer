@@ -111,6 +111,6 @@ cd ../../
 
 ## 🤝 License
 
-This project is licensed under the **MIT License**. See `LICENSE` for details.
+This project is licensed under the **INQUIRE Lab Academic Research License (Version 1.0)**, which permits non-commercial academic research use only. Commercial use requires prior written permission from the INQUIRE Lab. See `LICENSE` for details.
 
 
